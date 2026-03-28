@@ -1,7 +1,5 @@
 # Automobile-Industry-Analysis
-"An in-depth data analysis of the automotive industry, exploring market trends, sales dynamics, and key specifications. This repository uses data visualization and machine learning models to provide actionable insights for data analysts and industry professionals."
-A professional GitHub README.md for an automobile industry analysis project should serve as the primary landing page, communicating the project's purpose, methodologies, and findings.
-Below is a structured template based on common industry analysis repositories, which typically include data wrangling, exploratory data analysis (EDA), and predictive modeling.
+
 ------------------------------
 Automobile Industry Analysis 🚗📊
 
